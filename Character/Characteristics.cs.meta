@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6d5e0ece359c5ad4497ceebc1435242a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HealthBar: {instanceID: 0}
+  - HealthMask: {instanceID: 0}
+  - _labelPrefab: {fileID: 5601571612457251172, guid: 88a075147bfc2be409ffe7e361e28f58,
+      type: 3}
+  - DamageSound: {instanceID: 0}
+  - AudioSource: {instanceID: 0}
+  - _parentTransform: {fileID: 3088810316238727869, guid: e955f559054c8b44cae6e46fabbfbf01,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
